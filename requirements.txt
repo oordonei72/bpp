@@ -1,0 +1,3 @@
+Pillow
+unittest2
+sphinx
