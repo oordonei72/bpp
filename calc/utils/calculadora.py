@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image,ImageTk  
-import utils.operaciones as operaciones 
+import utils.operaciones as operaciones
 
 
 """
@@ -16,7 +16,13 @@ import utils.operaciones as operaciones
  
 """
 class CalculadoraGeometrica(tk.Tk):
+    """
+    Es una clase para generar la interfaz del aplicativo recive el parametro de la libreria Tkinter
+    """
     def __init__(self):
+        """
+           Crea la interfaz del usuario, como el titulo,el tamaño del layout
+        """
         super().__init__()
         self.title("Calculadora Geométrica")
         #Establecer dimension iniciales de lka ventana principal
@@ -118,6 +124,3 @@ class CalculadoraGeometrica(tk.Tk):
            
         self.valor_label.config(text=mensaje)
 
-if __name__ == "__main__":
-    app = CalculadoraGeometrica()
-    app.mainloop()
