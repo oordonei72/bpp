@@ -7,8 +7,8 @@ una calculadora que determina la áreas  y volúmenes de diferentes formas geom�
 ### Especificaciones ###
  <li> Actividad: Buenas Prácticas de programacoón en python </li>
  <li> Autor: Oscar Ordoñez Izquierdo</li>
- -Version python: 3.12.0
- -Ejecutar las dependencias despues de crear el entorno virtual
+ <li> Version python: 3.12.0</li>
+ <li>Ejecutar las dependencias despues de crear el entorno virtual</li>
 
      pip install -r requirements.txt 
 
