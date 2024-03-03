@@ -24,7 +24,8 @@ Ejecutar las dependencias despues de crear el entorno virtual
   3.- Ejecutar
         python main.py
 
-        ![alt text](image.png)
+       
+        
 
 
 
