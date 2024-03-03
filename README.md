@@ -5,10 +5,10 @@
 una calculadora que determina la áreas  y volúmenes de diferentes formas geométricas (Circulo,cuadrado y cubo)
 
 ### Especificaciones ###
-Actividad: Buenas Prácticas de programacoón en python
-Autor: Oscar Ordoñez Izquierdo
-Version python: 3.12.0
-Ejecutar las dependencias despues de crear el entorno virtual
+ -Actividad: Buenas Prácticas de programacoón en python
+ -Autor: Oscar Ordoñez Izquierdo
+ -Version python: 3.12.0
+ -Ejecutar las dependencias despues de crear el entorno virtual
 
      pip install -r requirements.txt 
 
