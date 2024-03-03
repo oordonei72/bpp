@@ -10,6 +10,9 @@ Autor: Oscar Ordoñez Izquierdo
 Version python: 3.12.0
 Ejecutar las dependencias despues de crear el entorno virtual
 
->>> pip install -r requirements.txt
+    #### pip install -r requirements.txt ####
+
+
+
 
 
